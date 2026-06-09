@@ -1,5 +1,3 @@
-# Reto 1: La Cafetería
-
 pedidos_sandwiches = [
     "atún",
     "pollo",
