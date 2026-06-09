@@ -1,5 +1,3 @@
-# Reto 2: Sin Empanadas
-
 pedidos_sandwiches = [
     "empanada",
     "atún",
