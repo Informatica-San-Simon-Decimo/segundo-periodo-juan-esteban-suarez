@@ -1,5 +1,3 @@
-# Reto 1: Ingredientes de Pizza
-
 print("=== CREADOR DE PIZZA ===")
 
 while True:
