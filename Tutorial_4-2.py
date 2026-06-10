@@ -1,5 +1,3 @@
-# Reto 2: Entradas de Cine
-
 print("=== SISTEMA DE ENTRADAS DE CINE ===")
 
 while True:
